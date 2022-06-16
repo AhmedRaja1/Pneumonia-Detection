@@ -13,12 +13,12 @@
 -
 ---
 ### Screenshot of Application
-![Screenshot of App](https://raw.githubusercontent.com/Reliance-FYP/Diabetes-Detection/main/Diabetes%20Detection%20App.png)
+![Screenshot of App](https://raw.githubusercontent.com/Reliance-FYP/Pneumonia-Detection/main/app.png)
 ---
 
 ### Performance of Trained Model
-![Performance of Trained Model](https://raw.githubusercontent.com/Reliance-FYP/Diabetes-Detection/main/Performance%20diabetes.png)
+![Performance of Trained Model](https://raw.githubusercontent.com/Reliance-FYP/Pneumonia-Detection/main/Performance.png)
 
 ### Dataset
-[Dataset Kaggle](https://www.kaggle.com/amanneo/diabetic-retinopathy-resized-arranged)
+[Dataset Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
